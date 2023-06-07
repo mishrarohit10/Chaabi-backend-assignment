@@ -9,7 +9,7 @@ def selectionSort(list,size):
         (list[i], list[min_idx]) = (list[min_idx],list[i])
 
 list = []
-n = int(input("Enter number of elements"))
+n = int(input("Enter number of elements -> "))
 
 for i in range(0,n):
     element = int(input())
