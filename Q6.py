@@ -4,8 +4,8 @@ for i in range(0, n):
     ele = int(input())
     lists.append(ele)
 
-idx1 = int(input("enter starting"))
-idx2 = int(input("enter end index"))
+idx1 = int(input("enter starting -> "))
+idx2 = int(input("enter end index -> "))
 
 # lists = [2,3,5,7,11,13,17,19,23,29,31,37,41] 
 # idx1 = 2 , idx = 9
