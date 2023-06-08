@@ -19,7 +19,7 @@ def func(from_date, to_date, diff):
 
 str_d1 = str(input('Enter from date in yyyy/mm/dd -> '))
 str_d2 = str(input('Enter to date in yyyy/mm/dd -> '))
-diff = int(input("Enter difference"))
+diff = int(input("Enter difference ->"))
 
 
 print(func(str_d1, str_d2 , diff))
